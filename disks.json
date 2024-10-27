@@ -1,0 +1,7 @@
+[
+    {"name": "Goodram", "memory": 512, "price": 1800},
+    {"name": "Samsung", "memory": 960, "price": 3100},
+    {"name": "Kingston", "memory": 256, "price": 899},
+    {"name": "Western Digital", "memory": 512, "price": 1249},
+    {"name": "Transcend", "memory": 256, "price": 750}
+]
